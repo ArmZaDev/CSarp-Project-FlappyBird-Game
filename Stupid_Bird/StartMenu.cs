@@ -19,12 +19,14 @@ namespace Stupid_Bird
 
         private void btnStart_Click(object sender, EventArgs e)
         {
-            
+            SplashScreen splashScreen = new SplashScreen();
+            splashScreen.Show();
+            this.Hide();
         }
 
         private void btnExit_Click(object sender, EventArgs e)
         {
-            
+            this.Close();
         }
     }
 }
