@@ -19,7 +19,7 @@ namespace Stupid_Bird
         
         private void timer1_Tick(object sender, EventArgs e)
         {
-            panel2.Width = 5;
+            panel2.Width += 5;
             if (panel2.Width >= 697)
             {
                 timer1.Stop();
