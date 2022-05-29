@@ -16,5 +16,10 @@ namespace Stupid_Bird
         {
             InitializeComponent();
         }
+
+        private void SplashScreen_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
