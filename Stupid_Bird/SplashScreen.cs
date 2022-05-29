@@ -16,17 +16,7 @@ namespace Stupid_Bird
         {
             InitializeComponent();
         }
-        private void timer1_Tick(object sender, EventArgs e)
-        {
-            panel2.Width += 5;
-            if (panel2.Width >= 697)
-            {
-                timer1.Stop();
-                StartGame startGame = new StartGame();
-                startGame.Show();
-                this.Hide();
-            }
-        }
+       
 
         private void SplashScreen_Load(object sender, EventArgs e)
         {
