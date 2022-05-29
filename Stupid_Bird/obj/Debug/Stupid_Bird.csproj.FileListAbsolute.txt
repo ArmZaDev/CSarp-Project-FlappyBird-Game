@@ -1,0 +1,14 @@
+C:\Users\ArmZaTV\source\repos\Stupid_Bird\Stupid_Bird\bin\Debug\Stupid_Bird.exe.config
+C:\Users\ArmZaTV\source\repos\Stupid_Bird\Stupid_Bird\bin\Debug\Stupid_Bird.exe
+C:\Users\ArmZaTV\source\repos\Stupid_Bird\Stupid_Bird\bin\Debug\Stupid_Bird.pdb
+C:\Users\ArmZaTV\source\repos\Stupid_Bird\Stupid_Bird\obj\Debug\Stupid_Bird.csproj.AssemblyReference.cache
+C:\Users\ArmZaTV\source\repos\Stupid_Bird\Stupid_Bird\obj\Debug\Stupid_Bird.csproj.SuggestedBindingRedirects.cache
+C:\Users\ArmZaTV\source\repos\Stupid_Bird\Stupid_Bird\obj\Debug\Stupid_Bird.Properties.Resources.resources
+C:\Users\ArmZaTV\source\repos\Stupid_Bird\Stupid_Bird\obj\Debug\Stupid_Bird.SplashScreen.resources
+C:\Users\ArmZaTV\source\repos\Stupid_Bird\Stupid_Bird\obj\Debug\Stupid_Bird.StartMenu.resources
+C:\Users\ArmZaTV\source\repos\Stupid_Bird\Stupid_Bird\obj\Debug\Stupid_Bird.csproj.GenerateResource.cache
+C:\Users\ArmZaTV\source\repos\Stupid_Bird\Stupid_Bird\obj\Debug\Stupid_Bird.csproj.CoreCompileInputs.cache
+C:\Users\ArmZaTV\source\repos\Stupid_Bird\Stupid_Bird\obj\Debug\Stupid_Bird.exe
+C:\Users\ArmZaTV\source\repos\Stupid_Bird\Stupid_Bird\obj\Debug\Stupid_Bird.pdb
+C:\Users\ArmZaTV\source\repos\Stupid_Bird\Stupid_Bird\obj\Debug\Stupid_Bird.GameOver.resources
+C:\Users\ArmZaTV\source\repos\Stupid_Bird\Stupid_Bird\obj\Debug\Stupid_Bird.StartGame.resources
