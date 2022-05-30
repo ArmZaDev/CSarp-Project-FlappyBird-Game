@@ -26,3 +26,4 @@ C:\Users\ArmZaTV\Documents\C-Chrap-Project\Flappy Bird\Stupid_Bird\Stupid_Bird\o
 C:\Users\ArmZaTV\Documents\C-Chrap-Project\Flappy Bird\Stupid_Bird\Stupid_Bird\obj\Debug\Stupid_Bird.csproj.CoreCompileInputs.cache
 C:\Users\ArmZaTV\Documents\C-Chrap-Project\Flappy Bird\Stupid_Bird\Stupid_Bird\obj\Debug\Stupid_Bird.exe
 C:\Users\ArmZaTV\Documents\C-Chrap-Project\Flappy Bird\Stupid_Bird\Stupid_Bird\obj\Debug\Stupid_Bird.pdb
+C:\Users\ArmZaTV\Documents\C-Chrap-Project\Flappy Bird\Stupid_Bird\Stupid_Bird\obj\Debug\Stupid_Bird.NextLevel.resources

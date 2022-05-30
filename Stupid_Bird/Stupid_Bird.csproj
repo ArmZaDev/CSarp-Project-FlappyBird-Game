@@ -52,6 +52,12 @@
     <Compile Include="GameOver.Designer.cs">
       <DependentUpon>GameOver.cs</DependentUpon>
     </Compile>
+    <Compile Include="NextLevel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NextLevel.Designer.cs">
+      <DependentUpon>NextLevel.cs</DependentUpon>
+    </Compile>
     <Compile Include="SplashScreen.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -74,6 +80,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="GameOver.resx">
       <DependentUpon>GameOver.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NextLevel.resx">
+      <DependentUpon>NextLevel.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

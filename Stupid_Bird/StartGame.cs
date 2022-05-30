@@ -86,7 +86,8 @@ namespace Stupid_Bird
             if (Score >= 15)
             {
                 timer1.Stop();
-
+                NextLevel nextLevel = new NextLevel();
+                nextLevel.Show();
                 this.Hide();
             }
 
