@@ -15,16 +15,20 @@ namespace Stupid_Bird
         public GameOver()
         {
             InitializeComponent();
+            lblScore.Text = StartGame.setValue;
         }
 
         private void btnStart_Click(object sender, EventArgs e)
         {
+            StartMenu Restart = new StartMenu();
+            Restart.Show();
+            this.Hide();
 
         }
 
         private void btnExit_Click(object sender, EventArgs e)
         {
-
+            this.Close();
         }
     }
 }
