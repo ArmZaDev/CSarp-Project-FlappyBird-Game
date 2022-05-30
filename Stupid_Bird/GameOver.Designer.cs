@@ -58,7 +58,7 @@
             this.btnStart.Name = "btnStart";
             this.btnStart.Size = new System.Drawing.Size(207, 78);
             this.btnStart.TabIndex = 4;
-            this.btnStart.Text = "Start Game";
+            this.btnStart.Text = "Restart";
             this.btnStart.UseVisualStyleBackColor = false;
             // 
             // pictureBox1
